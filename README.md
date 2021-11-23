@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hogganvik
 - 👀 I’m dying to work with C#, and look forward to master the art.
-- 🌱 I’m currently learning ASP.NET MVC, basic C# and CSS.
-- 💞️ I’m looking to collaborate on everything relevant to ASP.NET MVC and C#
-- 📫 How to reach me: I think there is a contact button in GitHub, but I don't know yet. 
+- 🌱 I’m currently learning ASP.NET MVC, basic C# and CSS. 
+- 💞️ The goal is to be quite skilled and land my first job in 2023.
+- 📫 How to reach me: I think there is a contact button in GitHub. 
 
 <!---
 Hogganvik/Hogganvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
