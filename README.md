@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hogganvik
 - 👀 I’m dying to work with programming, and look forward to master the art.
 - 🌱 I’m currently learning CSS and JavaScript, and have used 2021 to get C# under my fingernails.
-- 💞️ The goal is to be skilled enough to land my first job in 2022, and work front-end. In time I will work myself backwards(?) to manage C with ease.
+- 💞️ The goal is to be skilled enough to land my first job in 2022, and work front-end. In time I will work myself backwards(?) to manage C and assembler language with ease.
 - 📫 How to reach me: I think there is a contact button in GitHub. 
 
 <!---
